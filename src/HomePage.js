@@ -8,7 +8,7 @@ const HomePage = () => {
         <h1>Welcome</h1>
         </div>
         <div className='q-1'>
-            YOU'RE WORTHY JUST AS YOU ARE❤️
+            YOU'RE WORTHY JUST AS YOU ARE🤍🤍
         </div> 
         <div className='card'>
             <div className="c-1">
